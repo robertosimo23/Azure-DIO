@@ -1,0 +1,44 @@
+{
+    "documents": [
+        {
+            "id": "id__658",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0.18,
+                "neutral": 0.1,
+                "negative": 0.72
+            },
+            "sentences": [
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.05,
+                        "negative": 0.95
+                    },
+                    "offset": 0,
+                    "length": 141,
+                    "text": "He was saddened, therefore, by the manner in which they exited South Africa 2010, and pulled no punches in his assessment of their campaign. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.35,
+                        "neutral": 0.15,
+                        "negative": 0.5
+                    },
+                    "offset": 141,
+                    "length": 128,
+                    "text": "Smith may have been disappointed that, despite going unbeaten, the All Whites are heading home, but he can be proud of stifling ",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
